@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Martial Clausse
+Hi, I'm Martial (he/him)- an engineering manager currently working at [Zeta Global](https://zetaglobal.com/).<br>
+I'm from Charleroi, Belgium, and I'm passionate about videogames. PC/Nintendo.
 
-<!--
-**martialc/martialc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently learning
+I'm currently learning all about Infrastructure as Code, I'm particularly interested in docker, Kubernetes and Terraform.
 
-Here are some ideas to get you started:
+## 👯 Open for collaboration!
+Are you maintaining an open source project and would like to enjoy the benefits of managing your infrastructure through code?
+I'd love to help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in touch
+You can reach me on Twitter: https://twitter.com/martialc
